@@ -4,11 +4,11 @@ import './App.css';
 function App() {
   return (
     <div>
-    <nav>
+    <div className="nav">
         <p>Menu</p>
         <p>Contact Us</p>
         <p>Why Yesenia Should Trust Her Friend More</p>
-      </nav>
+      </div>
     <main>
       <h1>Slurp!</h1>
       <h2>

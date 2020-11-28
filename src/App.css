@@ -46,7 +46,7 @@ code:after {
 body {
   background-color: rgba(187, 186, 186, 0.733)
 }
-nav {
+.nav {
   display: flex;
   justify-content: space-evenly;
   background-color: gray;
