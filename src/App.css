@@ -14,6 +14,7 @@ main {
 }
 h1 {
   font-size: 45px;
+  text-align: left;
 }
 h2 {
   margin-top: 1.5em;
@@ -41,4 +42,26 @@ pre {
 code:before,
 code:after {
   content: '\`';
+}
+body {
+  background-color: rgba(187, 186, 186, 0.733)
+}
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: gray;
+}
+
+a {
+  color: white
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+.content-text {
+  max-width: 40%
 }
