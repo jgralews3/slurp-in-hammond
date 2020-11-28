@@ -5,9 +5,9 @@ function App() {
   return (
     <div>
     <nav>
-        <a href="#">Menu</a>
-        <a href="#">Contact Us</a>
-        <a href="#">Why Yesenia Should Trust Her Friend More</a>
+        <p>Menu</p>
+        <p>Contact Us</p>
+        <p>Why Yesenia Should Trust Her Friend More</p>
       </nav>
     <main>
       <h1>Slurp!</h1>
